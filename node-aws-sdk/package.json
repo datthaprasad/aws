@@ -1,0 +1,16 @@
+{
+  "name": "node-aws-sdk",
+  "version": "1.0.0",
+  "description": "aws sdk beginner guide for learning purpose",
+  "main": "index.js",
+  "dependencies": {
+    "aws-sdk": "^2.1023.0",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dattha prasad shetty",
+  "license": "ISC"
+}
